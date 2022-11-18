@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur-jr&label=Profile%20views&color=0e75b6&style=flat" alt="ankur-jr" /> </p>
 
-- 🌱 I’m currently learning **Backend-Development,Python for Machine learning**
+- 🌱 I’m currently learning **Backend-Development,Machine learning**
 
 - 📫 How to reach me **rajankur1802@gmail.com**
 
